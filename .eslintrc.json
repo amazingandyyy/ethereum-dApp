@@ -17,7 +17,8 @@
         "react/jsx-filename-extension": 0,
         "react/jsx-uses-vars": 2,
         "react/prop-types": 0,
-        "import/prefer-default-export": 0
+        "import/prefer-default-export": 0,
+        "no-console": 0
     },
     "plugins": [
         "react",

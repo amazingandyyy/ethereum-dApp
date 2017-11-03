@@ -7,7 +7,7 @@ import reduxThunk from 'redux-thunk'
 
 // import components
 import App from './components/app'
-import About from './components/about'
+import Crowdsale from './components/crowdsale'
 import Welcome from './components/welcome'
 import Layout from './components/layout'
 import reducers from './reducers'
@@ -32,7 +32,7 @@ const Root = () => (
         <Switch>
           <Route exact path="/" component={App} />
           <Route path="/welcome" component={Welcome} />
-          <Route path="/about" component={About} />
+          <Route path="/crowdsale" component={Crowdsale} />
         </Switch>
       </Layout>
     </HashRouter>

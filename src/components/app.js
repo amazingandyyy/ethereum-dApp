@@ -7,9 +7,9 @@ import { changeRootMsg } from '../actions'
 const App = (props) => {
   setTimeout(props.changeRootMsg, 1000)
   return (<div>
-    <div>Status: {props.root}</div>
+    {/* <div>Status: {props.root}</div> */}
     <div>
-      <Link to="about" >about</Link>
+      <Link to="crowdsale" >go to crowdsale</Link>
     </div>
   </div>)
 }
