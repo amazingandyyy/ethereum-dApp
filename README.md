@@ -5,7 +5,7 @@
 git clone https://github.com/venturedinternational/ico-daap.git
 npm install
 npm run dev
-<!-- open browser http://localhost:5000 -->
+<!-- open browser http://localhost:8080 -->
 ```
 
 ## production build & run
