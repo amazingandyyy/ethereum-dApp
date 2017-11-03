@@ -13,30 +13,6 @@ npm run dev
 npm run build && npm run start
 ```
 
-## React
-Clone from my [this repo](https://github.com/amazingandyyy/react-restart)
-
-## Ethjs
-Add Ethjs to the project, you can find Eth in state and use it as web3.eth.
-### Sample Usage
-check the file of about component, as following
-```javascript
-import React, { Component } from 'react';
-import { connect } from 'react-redux';
-
-const About = (props) => {
-	console.log(props.Eth);
-	return (
-		<div>
-			Current provider: {props.Eth.currentProvider.host}
-		</div>
-	)
-};
-
-export default connect(({ Eth }) => ({ Eth }), null)(About);
-
-```
-
 ## Versions
 Library |   version
 ---     |   ---
