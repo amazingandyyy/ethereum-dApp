@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-git clone https://github.com/venturedinternational/ico-daap.git
+git clone https://github.com/amazingandyyy/ethereum-daap.git
 npm install
 npm run dev
 <!-- open browser http://localhost:8080 -->
