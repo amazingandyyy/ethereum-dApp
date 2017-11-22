@@ -1,4 +1,7 @@
 # React Redux Daap (Ready for Ethereum)
+- You can buy ERC20 token with this React App
+- Amazingandyyy Toekn is recommended to be tested with this daap.
+- Amazingandyyy Toekn is a ERC-20 Token, you can find it [here](https://github.com/amazingandyyy/amazingandyyy-token)
 
 ## Usage
 ```
