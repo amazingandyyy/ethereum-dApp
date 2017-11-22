@@ -31,4 +31,4 @@ webpack | v3.6.0
 - check official repo for [ethjs](https://github.com/ethjs/ethjs)
 
 ## License
-🍺 [MIT](https://github.com/amazingandyyy/react-redux-daap/blob/master/LICENSE)
+🍺 [MIT](https://github.com/amazingandyyy/ethereum-daap/blob/master/LICENSE)
